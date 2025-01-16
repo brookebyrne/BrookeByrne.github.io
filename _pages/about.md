@@ -23,3 +23,5 @@ Brooke has honed strong quantitative analysis skills through her college coursew
 ## Press 
 
 Brooke has played a key part in the development of the [Vanderbilt Fusion Project](https://www.vanderbiltfusion.org/) in its goal of building a functional miniature nuclear fusion reactor to spark innovation and inspire others within our campus, community, and nation. The projects orgin and development was covered by [Vanderbilt University Research News](https://news.vanderbilt.edu/2023/05/17/little-sphere-big-power-students-work-to-build-miniature-fusion-reactor/)
+
+![Brooke Byrne](/assets/brooke (1).jpg)
