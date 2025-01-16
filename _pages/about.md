@@ -1,31 +1,27 @@
 ---
 
-title: "About David Florian"
+title: "About Brooke Byrne"
 
 ---
 
-## Education
+## Education 
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
-
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BE in Biomedical Engineering
+  * Minor in Digital Fabrication
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Brooke has honed strong quantitative analysis skills through her college coursework, applied data-driven decision-making in her internships, and has demonstrated leadership, business acumen and oral communication in extracurricular projects. Some key technical skills she has developed during her undergraduate experience include...
 
+* Quantitative Data Analysis (Excel, Tableau, SQL)
+* Open-Source Programming (MATLAB, Python)
+* Predictive Modeling (MATLAB, Python)
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* CAD Modeling (Solidworks, Fusion 360)
 
 ## Press 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+Brooke has played a key part in the development of the Vanderbilt Fusion Project in its goal of building a functional miniature nuclear fusion reactor to spark innovation and inspire others within our campus, community, and nation.
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+https://news.vanderbilt.edu/2023/05/17/little-sphere-big-power-students-work-to-build-miniature-fusion-reactor/
