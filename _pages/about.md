@@ -14,25 +14,22 @@ Brooke is set to work at Acccenture Federal Services in Washington, D.C. as a Te
 
 ## Work Experience
 
-ZS Associates (Pharmaceutical Management Consulting Firm).... June – August 2024.... Princeton, New Jersey
-  * Decision Analytics Summer Associate 
-    * Worked on multiple projects for a large pharmaceutical client to help maintain its competitive position
-    * In this capacity, developed complex SQL queries across diverse data repositories and modeled analyses in Excel
-    * Utilized Tableau dashboards to verify and depict numerical data and analyze salient market trends
-    * Synthesized findings into frameworks and actionable strategic recommendations for the client
-    * Led intern cohort in fostering an inclusive environment by organizing social events, facilitating connections among interns, and promoting a welcoming atmosphere outside of work.
+Decision Analytics Summer Associate @ ZS Associates (Pharmaceutical Management Consulting Firm)
+  * Worked on multiple projects for a large pharmaceutical client to help maintain its competitive position
+  * In this capacity, developed complex SQL queries across diverse data repositories and modeled analyses in Excel
+  * Utilized Tableau dashboards to verify and depict numerical data and analyze salient market trends
+  * Synthesized findings into frameworks and actionable strategic recommendations for the client
+  * Led intern cohort in fostering an inclusive environment by organizing social events, facilitating connections among interns, and promoting a welcoming atmosphere outside of work.
 
-ICU Medical Inc. (Medical Technology Company).... May - August 2023.... Southington, Connecticut
-  * Research and Development Intern
-    * Converted 50+ outdated drawings to 3D models using SolidWorks and drafted new drawings with manufacturing intent.
-    * Conducted design verification testing, performed mechanical testing for design validation, and updated procedures for 3 product families to comply with new ISO standards.
-    * Communicated design conflicts and test failures to a supervisor and developed solutions by identifying root causes and analyzing test data.
+Research and Development Intern @ ICU Medical Inc. (Medical Technology Company)
+  * Converted 50+ outdated drawings to 3D models using SolidWorks and drafted new drawings with manufacturing intent.
+  * Conducted design verification testing, performed mechanical testing for design validation, and updated procedures for 3 product families to comply with new ISO standards.
+  * Communicated design conflicts and test failures to a supervisor and developed solutions by identifying root causes and analyzing test data.
 
-Aspetuck Financial Management (Investment Management Firm).... Dec 2022 – Jan 2023, June – Aug 2021.... Fairfield, Connecticut
-  * Financial Planning and Analysis Intern
-    * Conducted research on financial markets, investment opportunities, and economic trends to assist in decision-making
-    * Prepared comprehensive PowerPoint presentations and Tableau reports for senior internal and client management
-    * Joined client meetings, developed tailored financial plans, and helped with overall account management
+Financial Planning and Analysis Intern @ Aspetuck Financial Management (Investment Management Firm)
+  * Conducted research on financial markets, investment opportunities, and economic trends to assist in decision-making
+  * Prepared comprehensive PowerPoint presentations and Tableau reports for senior internal and client management
+  * Joined client meetings, developed tailored financial plans, and helped with overall account management
 
 ## Technical Skills
 
