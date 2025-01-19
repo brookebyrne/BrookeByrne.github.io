@@ -4,7 +4,7 @@ title: "About Brooke Byrne"
 
 ---
 
-Brooke is set to work at Acccenture Federal Services in Washington, D.C. as a Technology Analyst come Summer 2025 and is very exctied to expand her technical knowledge in various tech services throughout this role.
+Brooke is a senior engineering student at Vanderbilt and is a curious and hardworking learner. Brooke is set to work at Acccenture Federal Services in Washington, D.C. as a Technology Analyst come Summer 2025 and is very exctied to expand her technical knowledge in various tech services throughout this role.
 
 ## Education 
 
