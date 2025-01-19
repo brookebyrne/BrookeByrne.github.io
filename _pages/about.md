@@ -38,8 +38,9 @@ Brooke has honed strong quantitative analysis skills through her college coursew
 * Quantitative Data Analysis (Excel, Tableau, SQL)
 * Open-Source Programming (MATLAB, Python)
 * Predictive Modeling (MATLAB, Python)
-* Fused Filament Fabrication (FFF)
 * CAD Modeling (Solidworks, Fusion 360)
+* Digital Fabrication Tools
+  * Fused Filament Fabrication (FFF)
 
 ## Press 
 
