@@ -8,7 +8,7 @@ Brooke is set to work at Acccenture Federal Services in Washington, D.C. as a Te
 
 ## Education 
 
-* Vanderbilt University
+* Vanderbilt University Expected Graduation May 2025
   * BE in Biomedical Engineering
   * Minor in Digital Fabrication
 
