@@ -10,10 +10,10 @@ header:
       url: "/portfolio/"
 excerpt: "Brooke Byrne is a current senior engineering student at Vanderbilt University graduating in May 2025. She has interests in biomedical engineering, data analysis, digital fabrication, and mobile health and hardware. Here you will find the various projects she has worked on."
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
+  - image_path: assets/img/image.png
+    alt: "Syringe Pump"
+    title: "3D Printed Syringe Pump"
+    excerpt: "Made out of both 3D printed and off-the-shelf parts."
 ---
 
 {% include feature_row %}
