@@ -34,15 +34,15 @@ Syringe pumps are biomedical devices designed to administer medication and small
 
 ## 3D-Printed Parts
 
-| Part Name |
-|----------------------|
-| Middle Support |
-| End Support |
-| Rod Support |
-| Motor Mounting Plate |
-| Carriage |
-| Middle Insert |
-| Syringe Insert |
+| Part Name | Part Image |
+|----------------------|--------------------------------------------------|
+| Middle Support | image_path: assets/img/middlesupport.png |
+| End Support |  |
+| Rod Support |  |
+| Motor Mounting Plate |  |
+| Carriage |  |
+| Middle Insert |  |
+| Syringe Insert |  |
 
 ## Operating Instructions
 
