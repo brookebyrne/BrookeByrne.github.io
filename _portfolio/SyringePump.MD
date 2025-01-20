@@ -7,8 +7,15 @@ header:
 gallery:
   - image_path: assets/img/image.png
   - image_path: assets/img/Team Rendezvous Render.PNG
-  - image_path: assets/img/Slide-4.png
-   
+  - image_path: assets/img/wiring.png
+  - image_path: assets/img/middlesupport.png
+  - image_path: assets/img/endsupport.png
+  - image_path: assets/img/insert.png
+  - image_path: assets/img/middleinsert.png
+  - image_path: assets/img/rodsupport.png
+  - image_path: assets/img/motormountingplate.png
+  - image_path: assets/img/carraige.png
+
 ---
 
 # Purpose
