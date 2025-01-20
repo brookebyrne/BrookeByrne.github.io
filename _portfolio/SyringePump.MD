@@ -30,12 +30,32 @@ Syringe pumps are biomedical devices designed to administer medication and small
 
 ## Off-The-Shelf Required Parts
 | Part Name | 
-|-----------|
+|:--------------------------------------:|
+| Breadboard |
+| Arduino Uno |
+| Flanged Ball Bearing |
+| Flexiable Linear Shaft Coupler |
+| LED 10mm White |
+| Linear Bearing |
+| Switch Button |
+| Push Button |
+| Limit Switch |
+| 8mm Linear Rod |
+| Linear Rod Lock Collar |
+| Lock Collar |
+| T-Nuts (M3, M5) |
+| Bolts (M3, M5) |
+| Power Supply |
+| Potentiometer |
+| Potentiometer Knob |
+| TR8 Lead Screw |
+| Trapezoidal Lead Screw Nut |
+| Aluminum Base |
 
 ## 3D-Printed Parts
 
 | Part Name |
-|----------------------|
+|:--------------------------------------:|
 | Middle Support |
 | End Support |
 | Rod Support |
@@ -43,6 +63,7 @@ Syringe pumps are biomedical devices designed to administer medication and small
 | Carriage |
 | Middle Insert |
 | Syringe Insert |
+| Electrical Component Box/Base |
 
 ## Operating Instructions
 
