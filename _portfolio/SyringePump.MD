@@ -23,16 +23,14 @@ Syringe pumps are biomedical devices designed to administer medication and small
 
 ## Features
 
-The syringe pump designed for this project was required to meet many parameters and constraints. These parameters and constraints included (a) the pump be driven by a stepper motor coupled to a lead screw; (b) the flow rate of the pump be set in the Arduino program & work with integer and decimal flow rate; (c) the pump be compatible with syringes of different diameters; (d) an LED light to turn green when running, yellow when paused, and red when out of liquid; (e) a latching button to start and pause the motion of the pump; (f) a switch that is triggered when the plunger has reached its limit; (g) short and clean electrical writing with proper terminations; (h) protection of electrical components from user and exposure to liquids; (i) unique branding on our enclosure to distinguish our design from other teams; (j) assembled as a single unit; (k) two monetary buttons that move the motor clockwise and counterclockwise; and (l) potentiometer to control the flowrate of the pump.
-
-* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
-* **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
-* **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
+* **Compatible with Multiple Syringe Diameters** The 3D printed parts have been intentionally designed to include an insert that would allow for use with multiple different standard sizes of syringes.
+* **LED Indicator Light** This pump includes an LED light to turn green when running, yellow when paused, and red when out of liquid.
+* **Supports a Wide Range of Flow Rates** The syringe pump has been programmed to function from flow rates 1 uL/min to 10 mL/min. The flow rate can be controlled using a potentiometer on the side of the box.
+* **Easy Reset** The pump can move both backwards and forwards using the buttons on the side of the box to easily reset the syringe pump after use.
 
 ## Off-The-Shelf Required Parts
 | Part Name | 
 |-----------|
-
 
 ## 3D-Printed Parts
 
@@ -46,7 +44,6 @@ The syringe pump designed for this project was required to meet many parameters 
 | Middle Insert |
 | Syringe Insert |
 
-
 ## Operating Instructions
 
 In order to operate the syringe pump properly, these instructions must be followed. Assuming that the proper code has been uploaded to the Arduino, the user can plug the power supply into an outlet. Once connected to the power supply, the user can load the syringe into the  syringe pump. Once the syringe is properly loaded, the user can then push the latching button to activate the motor. The latching button is used to start or pause the motion of the pump, therefore only when the button is pushed can the motor spin. After the latching button is pressed to activate the motor, the user can also push either of the two monetary buttons to change the direction of the motor, clockwise or counterclockwise. This will either push or pull the plunger. The user can also use the potentiometer dial to adjust the flowrate of the pump. Additionally, when the motor is running, the LED will display a green light. When the latching button is pressed to pause the motor, the LED will change from green to yellow. When the latching button is pressed to reactivate the motor, and the pump releases all of the liquid that it was previously holding, the LED will change from green to red. Once the LED is red, the user will know that the syringe pump has finished its task, and the user can reset the pump back into its original position.
@@ -55,6 +52,7 @@ In order to operate the syringe pump properly, these instructions must be follow
 The arduino code used to program the syringe pump can be found [here](https://github.com/brookebyrne/SyringPumpArduino/blob/main/code) in my Github repository.
 
 ## CAD Model
+
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e66b6ac86d6a05dc1?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="Syringe Pump Photo Gallery" %}
