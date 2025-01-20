@@ -29,7 +29,8 @@ Syringe pumps are biomedical devices designed to administer medication and small
 * **Easy Reset** The pump can move both backwards and forwards using the buttons on the side of the box to easily reset the syringe pump after use.
 
 ## Off-The-Shelf Required Parts
-|Part Name| 
+
+| Part Name | 
 |:--------------------------------------:|
 | Breadboard |
 | Arduino Uno |
