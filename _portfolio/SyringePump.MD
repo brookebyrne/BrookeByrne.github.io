@@ -30,9 +30,21 @@ The syringe pump designed for this project was required to meet many parameters 
 * **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
 
 ## Off-The-Shelf Required Parts
+| Part Name | 
+|-----------|
 
 
 ## 3D-Printed Parts
+
+| Part Name |
+|----------------------|
+| Middle Support |
+| End Support |
+| Rod Support |
+| Motor Mounting Plate |
+| Carriage |
+| Middle Insert |
+| Syringe Insert |
 
 
 ## Operating Instructions
@@ -40,7 +52,7 @@ The syringe pump designed for this project was required to meet many parameters 
 In order to operate the syringe pump properly, these instructions must be followed. Assuming that the proper code has been uploaded to the Arduino, the user can plug the power supply into an outlet. Once connected to the power supply, the user can load the syringe into the  syringe pump. Once the syringe is properly loaded, the user can then push the latching button to activate the motor. The latching button is used to start or pause the motion of the pump, therefore only when the button is pushed can the motor spin. After the latching button is pressed to activate the motor, the user can also push either of the two monetary buttons to change the direction of the motor, clockwise or counterclockwise. This will either push or pull the plunger. The user can also use the potentiometer dial to adjust the flowrate of the pump. Additionally, when the motor is running, the LED will display a green light. When the latching button is pressed to pause the motor, the LED will change from green to yellow. When the latching button is pressed to reactivate the motor, and the pump releases all of the liquid that it was previously holding, the LED will change from green to red. Once the LED is red, the user will know that the syringe pump has finished its task, and the user can reset the pump back into its original position.
 
 ## Arduino Code
-The arduino code used to program the syringe pump can be found [here] (https://github.com/brookebyrne/SyringPumpArduino/blob/main/code) in my Github repository.
+The arduino code used to program the syringe pump can be found [here](https://github.com/brookebyrne/SyringPumpArduino/blob/main/code) in my Github repository.
 
 ## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e66b6ac86d6a05dc1?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
