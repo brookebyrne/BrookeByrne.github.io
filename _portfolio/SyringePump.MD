@@ -31,32 +31,33 @@ Syringe pumps are biomedical devices designed to administer medication and small
 ## Off-The-Shelf Required Parts
 
 | Part Name | 
-|:--------------------------------------:|
-| Breadboard |
+|:------------------------------------------------------------------------------:|
+| Small Breadboard |
 | Arduino Uno |
 | Flanged Ball Bearing |
-| Flexiable Linear Shaft Coupler |
-| LED 10mm White |
-| Linear Bearing |
-| Switch Button |
-| Push Button |
+| 1/4" x 8mm Flexible Coupler |
+| RGB Common Cathode LED |
+| LM8UU Linear bearing for 8 mm diameter rod |
+| Panel Mount Latching Push Buttons |
 | Limit Switch |
-| 8mm Linear Rod |
+| 200 mm linear rod with 8 mm diameter |
 | Linear Rod Lock Collar |
 | Lock Collar |
 | T-Nuts (M3, M5) |
 | Bolts (M3, M5) |
-| Power Supply |
+| MEAN WELL RQ-65D AC-DC Power Supply Quad Output 5V 12V 24V 12V 4 Amp |
 | Potentiometer |
 | Potentiometer Knob |
-| TR8 Lead Screw |
+| 250 mm lead screw with 2 mm pitch and 2 mm lead |
 | Trapezoidal Lead Screw Nut |
-| Aluminum Base |
+| 2040 Aluminum Extrusion 1' Length |
+| Nema 17 Stepper Motor |
+| A4988 Stepper Driver |
 
 ## 3D-Printed Parts
 
 | Part Name |
-|:--------------------------------------:|
+|:------------------------------------------------------------------------------:|
 | Middle Support |
 | End Support |
 | Rod Support |
