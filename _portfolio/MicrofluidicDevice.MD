@@ -1,3 +1,4 @@
+
 ---
 title: "Microfluidic Particle Sorting Device"
 excerpt: "A microfluidic device functioning to sort particles of 125 – 150 μm diameter from 425 – 500 μm diameter particles from a mixed solution."
@@ -14,6 +15,7 @@ gallery:
   - image_path: assets/img/middleinsert.png
   - image_path: assets/img/rodsupport.png
   - image_path: assets/img/motormountingplate.png
+---
 
 ## Introduction
 
