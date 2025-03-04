@@ -33,24 +33,24 @@ The final step is plasma bonding the PDMS device to a glass slide, ensuring a st
 
 ## Discussion
 
-1. Why are resin-printed molds coated with parylene prior to casting the PDMS? What are hypothetical applications of your microfluidic mixer or sorter?
+1) Why are resin-printed molds coated with parylene prior to casting the PDMS? What are hypothetical applications of your microfluidic mixer or sorter?
 
 Resin-printed molds are coated with parylene because it creates a smooth, protective layer that prevents uncured resin from interfering with PDMS curing. Without this coating, the PDMS might not fully set, leading to defects in the final device. Parylene also makes it easier to remove the PDMS without damaging small features.
 
 A microfluidic sorter like this could be used in medical diagnostics to separate different types of blood cells, in bacteria detection, or even in environmental testing to filter tiny pollutants from water. A microfluidic mixer could be useful for drug development or diagnostics, where small liquid volumes need to be mixed precisely for chemical reactions.
 
-2. Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width, outlet width, location of ports, etc.)
+2) Why is your geometry conducive to sorting? Discuss specific dimensions (pinch width, outlet width, location of ports, etc.)
 The pinched section of the device is designed to align particles based on size before they enter the broader section, where they separate into different paths. The pinch width is narrow enough to force particles into a single-file line, ensuring they sort correctly. The outlet widths are balanced to avoid one outlet from having more resistance than another, and the holes are spaced far enough apart to prevent interference of the barbs that come out of the holes. The depth of the channels is just slightly larger than the biggest particle to stop stacking, ensuring only a single layer of particles moves through at a time.
 
-3. What steps or design features did you use to ensure that each outlet received the same flow rate, preventing disruptions to the streamlines and maintaining proper separation?
+3) What steps or design features did you use to ensure that each outlet received the same flow rate, preventing disruptions to the streamlines and maintaining proper separation?
 
 To keep flow rates equal, the outlet channels were made with the same cross sectional area and depth, ensuring no one channel has more resistance than another. If outlets are too different, particles might recombine, ruining the sorting process. 
 
-4. Based on the results of testing, could you implement any future changes to improve sorting?
+4) Based on the results of testing, could you implement any future changes to improve sorting?
 
 The pinch width might need adjustment to better separate smaller particles. If there was too much overlap in particle paths, changing the geometry of the channels and the CSA could help keep particles on distinct trajectories. Another improvement could be using a different outlet configuration to ensure particles exit the broad section evenly. If clogging was an issue, increasing the channel size slightly might help prevent blockages.
 
-5. Did you attempt the bonus opportunity? If so, describe your approach and success.
+5) Did you attempt the bonus opportunity? If so, describe your approach and success.
 
 I did not attempt the bonus opportunity.
 
