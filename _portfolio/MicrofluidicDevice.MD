@@ -4,6 +4,9 @@ excerpt: "A microfluidic device functioning to sort particles of 125 – 150 μm
 header:
   image: /assets/img/Team Rendezvous Render.PNG
   teaser: /assets/img/Team Rendezvous Render.PNG
+gallery:
+  - image_path: /assets/img/microfluidic
+  - image_path: /assets/img/mold
 ---
 
 ## Introduction
@@ -61,14 +64,14 @@ de Timary G, Rousseau CJ, Van Melderen L, Scheid B. Shear-enhanced sorting of ov
 
 ## Mold
 
-
+![mold](/assets/img/mold.png)
 
 ## Casted Device
 
-
+![device](/assets/img/microfluidic.png)
 
 ## CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e66b6ac86d6a05dc1?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="Syringe Pump Photo Gallery" %}
+{% include gallery caption="Microfluidic Photo Gallery" %}
