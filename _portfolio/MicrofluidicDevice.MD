@@ -34,6 +34,10 @@ Next, PDMS is cast into the prepared mold. PDMS is commonly used in microfluidic
 
 The final step is plasma bonding the PDMS device to a glass slide, ensuring a strong, leak-proof seal. Plasma bonding involves exposing both the PDMS surface and the glass slide to oxygen plasma, which activates the surfaces by creating reactive groups. When pressed together, these surfaces form a covalent bond, ensuring durability and preventing fluid leakage during the operation of the device. This step is crucial for maintaining laminar flow within the microfluidic channels, optimizing the performance of the PFF process.
 
+## Results
+
+There was in error in casting the devices and processing, causing turbulant flow in the device. Therefore it did not work. 
+
 ## Discussion
 
 1) Why are resin-printed molds coated with parylene prior to casting the PDMS? What are hypothetical applications of your microfluidic mixer or sorter?
@@ -56,7 +60,6 @@ The pinch width might need adjustment to better separate smaller particles. If t
 5) Did you attempt the bonus opportunity? If so, describe your approach and success.
 
 I did not attempt the bonus opportunity.
-
 
 ## References 
 
