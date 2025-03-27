@@ -2,11 +2,11 @@
 title: "Microfluidic Particle Sorting Device"
 excerpt: "A microfluidic device functioning to sort particles of 125 – 150 μm diameter from 425 – 500 μm diameter particles from a mixed solution."
 header:
-  image: /assets/img/microfluidic
-  teaser: /assets/img/microfluidic
+  image: /assets/img/microfluidic.jpg
+  teaser: /assets/img/microfluidic.jpg
 gallery:
-  - image_path: /assets/img/microfluidic
-  - image_path: /assets/img/mold
+  - image_path: /assets/img/microfluidic.jpg
+  - image_path: /assets/img/mold.jpg
 ---
 
 ## Introduction
@@ -67,11 +67,11 @@ de Timary G, Rousseau CJ, Van Melderen L, Scheid B. Shear-enhanced sorting of ov
 
 ## Mold
 
-![mold](/assets/img/mold.png)
+![mold](/assets/img/mold.jpg)
 
 ## Casted Device
 
-![device](/assets/img/microfluidic.png)
+![device](/assets/img/microfluidic.jpg)
 
 ## CAD Model
 
