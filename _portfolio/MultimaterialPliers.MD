@@ -2,15 +2,21 @@
 title: "Multimaterial PLA/TPU 95 Pliers"
 excerpt: "This project involves the design and fabrication of 3D printed pliers with a flexible spring component that allows for immediate functionality upon removal from the print bed."
 header:
-  image: /assets/img/microfluidic
-  teaser: /assets/img/microfluidic
+  image: /assets/img/plierpic5.jpg
+  teaser: /assets/img/plierpic5.jpg
 gallery:
-  - image_path: /assets/img/microfluidic
+  - image_path: /assets/img/plierpic1.jpg
+  - image_path: /assets/img/plierpic4.jpg
+  - image_path: /assets/img/plierpic5.jpg
 ---
 
 ## Print-in-place Parts
 
 Print-in-place models are functional multi-component designs that work immediately after removal from the print bed, without the need for post-processing or assembly. These models are created through single material extrusion by carefully designing the parts and orienting the print to allow for clearance between printed joints where motion or rotation is required. However, even with optimized print settings, these models can be plagued by crunchy movement due to the irregularities of plastic extrusion. Another method to obtain useful motion is to include a flexible element in the model, whether that is a thin piece of a rigid plastic or a second elastomeric material.
+
+## CAD Model
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a492af1e1da68b0a7e?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Other Applications
 
@@ -33,9 +39,11 @@ The spring component was created by making one sketch with a repeating square in
 
 Standard DF Lab 3D print settings were used for the TPU 95 and PLA materials. This included 2 top and bottom layers, 3 perimeter layers, and a modification to a honeycomb infill pattern. The infill density was set to 25% for the TPU and 15% for the PLA. No support material was necessary for this design.
 
-## CAD Model
+## GIF
 
+![gif](/assets/img/pliergif1.GIF)
 
+![gif](/assets/img/pliergif2.GIF)
 
 ## References:
 
