@@ -2,8 +2,8 @@
 title: "Syringe Pump"
 excerpt: "A fully functional syringe pump assembley including both 3D printed and manufactured off-the-shelf parts that is capable of flow rates from 1 uL/min to 10 mL/min."
 header:
-  image: /assets/img/image.png
-  teaser: /assets/img/Team Rendezvous Render.PNG
+  image: assets/img/image.png
+  teaser: assets/img/Team Rendezvous Render.PNG
 gallery:
   - image_path: assets/img/image.png
   - image_path: assets/img/Team Rendezvous Render.PNG
