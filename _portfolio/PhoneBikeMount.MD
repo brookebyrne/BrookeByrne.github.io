@@ -2,6 +2,13 @@
 title: "3D-Printed Phone Mount for Bike Handlebar"
 excerpt: "A multimaterial 3D-Printed phone mount for bicyle handlebars using top-down modeling, fully customizable to user phone."
 header:
+  image: /assests/img/pic.jpg
+  teaser: /assests/img/pic.jpg
+gallery:
+  - image_path: /assests/img/rendering.png
+  - image_path: /assests/img/pic.jpg
+  - image_path: /assests/img/gif1.gif
+  - image_path: /assests/img/detent.png
 ---
 
 ## Top Down Modeling
@@ -21,6 +28,10 @@ From the beginning, the design was guided by several core principles:
 The rotating mechanism used a detent system, which involves a ball bearing and spring placed in a cavity that clicks into predefined positions. In this design, the detent allowed the phone holder to snap between portrait and landscape orientations.
 
 While the mechanism worked, it didn’t perform as well as I’d hoped. The primary issue was undersizing the detent system. The rotating disk and detent interface were too small relative to the weight and leverage of a modern smartphone, especially when mounted off-center on a bike handlebar. As a result, the detent didn’t provide as firm a lock as intended. In future iterations, I would increase the diameter and depth of the detent features to improve the tactile feedback and hold strength.
+
+![dentent](/assests/img/detent.png)
+
+![gif](/assests/img/gif1.gif)
 
 ## Adjustments for 3D Printing
 I had to modify several dimensions to accommodate the realities of the 3D printing process. For parts printed using FFF (Fused Filament Fabrication) with TPU, I added a tolerance to prevent tight fits, accounting for slight over-extrusion and flexibility of the material. Additionally, for the rotating mechanism printed using powder SLS (Selective Laser Sintering), I included proper clearances between rotating parts to avoid fusion during sintering and ensure smooth movement after printing.
@@ -43,6 +54,7 @@ To assemble the phone mount:
 - Once installed, you can easily slip your phone into the flexible TPU arms and rotate the holder to your desired orientation—portrait or landscape.
 
 ## CAD Model
-
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a46baa72797a60dee6?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Gallery
+{% include gallery caption="Bike Phone Mount Gallery" %}
