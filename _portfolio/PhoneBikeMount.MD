@@ -2,22 +2,22 @@
 title: "3D-Printed Phone Mount for Bike Handlebar"
 excerpt: "A multimaterial 3D-Printed phone mount for bicyle handlebars using top-down modeling, fully customizable to user phone."
 header:
-  image: assets/img/pic.jpg
-  teaser: assets/img/pic.jpg
+  image:  /assets/img/pic.jpg
+  teaser:  /assets/img/pic.jpg
 gallery: 
- - image_path: assests/img/rendering.png
- - image_path: assests/img/pic.jpg
- - image_path: assests/img/gif1.gif
- - image_path: assests/img/detent.png
- - image_path: assests/img/c1.png
- - image_path: assests/img/c2.png
- - image_path: assests/img/c3.png
- - image_path: assests/img/c4.png
- - image_path: assests/img/c5.png
- - image_path: assests/img/c6.png
- - image_path: assests/img/c7.png
- - image_path: assests/img/c8.png
- - image_path: assests/img/c9.png
+ - image_path:  /assets/img/rendering.png
+ - image_path:  /assets/img/pic.jpg
+ - image_path:  /assets/img/gif1.gif
+ - image_path:  /assets/img/detent.png
+ - image_path:  /assets/img/c1.png
+ - image_path:  /assets/img/c2.png
+ - image_path:  /assets/img/c3.png
+ - image_path:  /assets//img/c4.png
+ - image_path:  /assets/img/c5.png
+ - image_path:  /assets/img/c6.png
+ - image_path:  /assets/img/c7.png
+ - image_path:  /assets/img/c8.png
+ - image_path:  /assets/img/c9.png
 ---
 
 ## Top Down Modeling
