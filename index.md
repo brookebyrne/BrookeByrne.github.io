@@ -14,6 +14,14 @@ feature_row:
     alt: "Syringe Pump"
     title: "3D Printed Syringe Pump"
     excerpt: "Made out of both 3D printed and off-the-shelf parts."
+  - image_path: assets/img/pic.png
+    alt: "3D Printed Phone Mount"
+    title :"3D Printed Bike Phone Mount"
+    excerpt: "Top-down modeling to create this multicomponent assembly"
+  - image_path: assets/img/pic.png
+    alt: "Microfluidic Device"
+    title :"3D Printed Microfluidic Device Mold"
+    excerpt: "Resin printing a microfluidic device mold"
 ---
 
 {% include feature_row %}
