@@ -3,7 +3,7 @@ title: "3D-Printed Phone Mount for Bike Handlebar"
 excerpt: "A multimaterial 3D-Printed phone mount for bicyle handlebars using top-down modeling, fully customizable to user phone."
 header:
   image:  /assets/img/pic.jpg
-  teaser:  /assets/img/pic.jpg
+  teaser: /assets/img/pic.jpg 
 gallery: 
  - image_path:  /assets/img/rendering.png
  - image_path:  /assets/img/pic.jpg
