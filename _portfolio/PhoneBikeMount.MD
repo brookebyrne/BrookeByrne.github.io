@@ -9,6 +9,15 @@ gallery:
   - image_path: /assests/img/pic.jpg
   - image_path: /assests/img/gif1.gif
   - image_path: /assests/img/detent.png
+  - image_path: /assests/img/c1.png
+  - image_path: /assests/img/c2.png
+  - image_path: /assests/img/c3.png
+  - image_path: /assests/img/c4.png
+  - image_path: /assests/img/c5.png
+  - image_path: /assests/img/c6.png
+  - image_path: /assests/img/c7.png
+  - image_path: /assests/img/c8.png
+  - image_path: /assests/img/c9.png
 ---
 
 ## Top Down Modeling
