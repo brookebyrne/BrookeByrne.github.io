@@ -2,11 +2,15 @@
 title: "Generative Design Shelf Bracket"
 excerpt: "Shelf bracekets designed using Fusion360's generative design feature sustaining over 20lbs"
 header:
-  image: /assets/img/microfluidic.jpg
-  teaser: /assets/img/microfluidic.jpg
+  image: /assets/img/gd7.jpg
+  teaser: /assets/img/gd7.jpg
 gallery:
-  - image_path: /assets/img/microfluidic.jpg
-  - image_path: /assets/img/mold.jpg
+  - image_path: /assets/img/gd2.jpg
+  - image_path: /assets/img/gd3.jpg
+  - image_path: /assets/img/gd4.jpg
+  - image_path: /assets/img/gd5.jpg
+  - image_path: /assets/img/gd6.jpg
+  - image_path: /assets/img/gd7.jpg
 ---
 
 ## Overview of the Part and Application
@@ -56,6 +60,10 @@ For example, in Formula 1 racing, generative design could be used to create cust
 
 However, it might fall short in aesthetic design fields where the primary goal is visual impact, not mechanical performance. A second example would be consumer packaging design, where function is usually overshadowed by brand, appearance, and tactile experience — factors that generative design isn’t nescarilly built for. 
 
+## CAD Model
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4af93a716a51fa792?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 **Table: Summary of Forces Applied**
 
 | **Name of Force** | **Magnitude** | **Location of Application** | **Rationale** |
@@ -66,3 +74,15 @@ However, it might fall short in aesthetic design fields where the primary goal i
 | Friction Forces | 15 lbs | Shelf surface and wall face | Accounts for lateral movement of shelf/items |
 | Moment Load | 25 lbs | Outer edge of shelf | Simulates off-center loading or tipping forces |
 
+## Shelf in Use
+![shelf](/assets/img/gd7.jpg)
+
+## Converged Outcome
+![converged outcome](/assets/img/ss1.jpg)
+
+## Chosen Model
+I chose to go back in outcome interations because of the desired look of the bracket I wanted. I thought the converged outcomes were all a little boring. Plus I figured that this bracket would be able to support more weight anyway.
+
+![chosen outcome](/assets/img/ss2.jpg)
+
+{% include gallery caption="Shelf Photo Gallery" %}
