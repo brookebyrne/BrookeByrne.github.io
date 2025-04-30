@@ -64,7 +64,7 @@ However, it might fall short in aesthetic design fields where the primary goal i
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4af93a716a51fa792?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-**Table: Summary of Forces Applied**
+## Summary of Forces Applied
 
 | **Name of Force** | **Magnitude** | **Location of Application** | **Rationale** |
 |-------------------|----------------|------------------------------|----------------|
